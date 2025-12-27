@@ -11,6 +11,9 @@
 
 ---
 
+https://github.com/yk38spage/meteorMadness
+
+
 ## 📖 Proje Hakkında
 
 **Meteor Madness**, NASA'nın açık kaynak verilerini ve temel fizik prensiplerini kullanarak, belirli parametrelere (hız, kütle, giriş açısı vb.) sahip bir meteorun Dünya üzerindeki olası çarpışma noktasını ve yaratacağı etkiyi simüle eden bir web uygulamasıdır.
@@ -46,8 +49,7 @@ Bu projenin kalbi, arkadaşım ve benim geliştirdiğimiz fizik hesaplama modül
 
 https://github.com/yk38spage/meteorMadness
 ## 📸 Ekran Görüntüleri
-
-https://github.com/yk38spage/meteorMadnessSlide
+projemizi açıklayan slayt:https://github.com/yk38spage/meteorMadnessSlide
 
 
 ## 👥 Takım
