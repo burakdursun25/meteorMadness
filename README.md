@@ -44,38 +44,11 @@ Bu projenin kalbi, arkadaşım ve benim geliştirdiğimiz fizik hesaplama modül
 2.  **Aerodinamik Sürtünme:** $F_d = \frac{1}{2} \rho v^2 C_d A$ formülü ile atmosferik yavaşlama simülasyonu.
 3.  **Enerji Korunumu:** Çarpışma anındaki kinetik enerjinin ($E_k = \frac{1}{2}mv^2$) TNT eşdeğeri olarak hesaplanması.
 
-## 🚀 Kurulum ve Çalıştırma
-
-Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
-
-1.  **Repoyu klonlayın:**
-    ```bash
-    git clone [https://github.com/yk38spage/meteorMadness.git](https://github.com/yk38spage/meteorMadness.git)
-    cd meteorMadness
-    ```
-
-2.  **Gerekli paketleri yükleyin:**
-    ```bash
-    # Örnek: Eğer Python kullanıyorsanız
-    pip install -r requirements.txt
-    
-    # Veya Node.js kullanıyorsanız
-    npm install
-    ```
-
-3.  **Uygulamayı başlatın:**
-    ```bash
-    # Başlatma komutunuz (örn: python app.py veya npm start)
-    npm start
-    ```
-
+https://github.com/yk38spage/meteorMadness
 ## 📸 Ekran Görüntüleri
 
-(https://github.com/yk38spage/meteorMadnessSlide)
+https://github.com/yk38spage/meteorMadnessSlide
 
-| Ana Sayfa | Hesaplama Sonucu |
-|:---:|:---:|
-| ![Screenshot1](./screenshots/img1.png) | ![Screenshot2](./screenshots/img2.png) |
 
 ## 👥 Takım
 
